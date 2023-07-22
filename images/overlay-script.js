@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NW Alliance Template
+// @name         Connection Lost Template
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description
